@@ -5,10 +5,10 @@
 		"uniqueTo": "Xylathoids",
 		"replaces": "Cavalry",
 		"movement": 1,
-		"strength": 90,
+		"strength": 50,
 		"cost": 500,
 		"requiredTech": "Fertilizer",
-		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Can only attack [City] units", "No defensive terrain bonus", "[+200]% Strength <when defending>", "All tiles cost 1 movement", "Never appears as a Barbarian unit"],
+		"uniques": ["Can only attack [City] units", "No defensive terrain bonus", "[+200]% Strength <when defending>", "All tiles cost 1 movement", "Never appears as a Barbarian unit"],
 		"promotions": ["Cover I"],
 		"attackSound": "nonmetalhit"
 	}

@@ -32,9 +32,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["The Elder shard","Q'Aethelprism","Q'Luminesca","Q'Amethalia","Q'Glintspire","Q'Aurorite","Q'Celestite","Q'Prismara","Q'Crystalline",
+			"Q'Quartzis","Q'Quartzis","Q'Zephyrspire","Q'Obsidia","Q'Astralith","Q'Shardrock","Q'Basal Ridge","Q'Vugspire ","Q'Clustermore","Q'Orecrag",
+			"Q'Deepdrusy","Q'Shardtadel","Q'Fracture Peak"]
 	}
 ]
