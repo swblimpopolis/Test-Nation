@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Xylathoids",
+		"leaderName": "Xylar",
+		"adjective": ["Xylathoid","Xylathoids"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
