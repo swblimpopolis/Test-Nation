@@ -5,9 +5,6 @@ permissions:
   pull-requests: write
 
 on:
-  # Triggers the workflow on push or pull request events but only for the "master" branch
-  push:
-    branches: [ "master" ]
   schedule:
     - cron: '30 2 * * *'  # Run once per day
 
