@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
+		"name": "Crystal Guardian",
+		"unitType": "Armored",
+		"uniqueTo": "Xylathoids",
+		"replaces": "Cavalry",
+		"movement": 1,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Fertilizer",
+		"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>", "Can only attack [City] units", "No defensive terrain bonus", "[+200]% Strength <when defending>", "All tiles cost 1 movement", "Never appears as a Barbarian unit"],
+		"promotions": ["Cover I"],
+		"attackSound": "nonmetalhit"
 	}
 ]
