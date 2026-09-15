@@ -11,11 +11,11 @@
 	},
 	{
 		"name": "Crystal Dome",
-		"replaces": "Walls",
+		"replaces": "Great Wall",
 		"uniqueTo": "Xylathoids",
-		"cost": 120,
-		"maintenance": 1,
-		"uniques": ["Units in cities cost no Maintenance", "Enemy [Land] units must spend [1] extra movement points when inside your territory", "[-20]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"],
+		"isNationalWonder": true,
+		"maintenance": 3,
+		"uniques": ["Cost increases by [40] per owned city", "Units in cities cost no Maintenance", "Enemy [Land] units must spend [1] extra movement points when inside your territory <before discovering [Combustion]> <Suppress warning [*contains a conditional on a unit movement unique*]>", "[-20]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Engineering"
 	}
 ]
