@@ -25,6 +25,13 @@ NationIcons/Xylathoids
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Crystal Guardian
+  rotate: false
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Crystal Guardian
   rotate: false
   xy: 4, 12
