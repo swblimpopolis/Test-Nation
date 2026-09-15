@@ -1,18 +1,5 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
 		"name": "Seeders",
 		"replaces": "Granary",
 		"uniqueTo": "Xylathoids",
@@ -21,5 +8,14 @@
 		"maintenance": 2,
 		"uniques": ["[+1 Food] from [Mine] tiles [in this city]"],
 		"requiredTech": "Chemistry"
+	},
+	{
+		"name": "Crystal Dome",
+		"replaces": "Walls",
+		"uniqueTo": "Xylathoids",
+		"cost": 120,
+		"maintenance": 1,
+		"uniques": ["Units in cities cost no Maintenance", "Enemy [Land] units must spend [1] extra movement points when inside your territory", "[-20]% enemy spy effectiveness [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Engineering"
 	}
 ]

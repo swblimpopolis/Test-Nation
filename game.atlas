@@ -4,7 +4,7 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Holodeck
+BuildingIcons/Crystal Dome
   rotate: false
   xy: 420, 104
   size: 100, 100
