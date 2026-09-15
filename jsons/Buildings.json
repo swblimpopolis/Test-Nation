@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Seeders",
+		"replaces": "Granary",
+		"uniqueTo": "Xylathoids",
+		"cost": 120,
+		"food": 1,
+		"maintenance": 2,
+		"uniques": ["[+1 Food] from [Mine] tiles [in this city]"],
+		"requiredTech": "Chemistry"
 	}
 ]
