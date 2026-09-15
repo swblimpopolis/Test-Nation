@@ -3,15 +3,15 @@
 		"name": "Xylathoids",
 		"leaderName": "Xylar",
 		"adjective": ["Xylathoid","Xylathoids"],
-		"startBias": ["Snow"],
+		"startBias": ["Hill", "Mountain"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "Rock + People = Xylathoids",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "Resistance is futile! Prepare to be crystalized!",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"defeated": "How is it possible that those Apes hurt us? Time will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
@@ -31,7 +31,13 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Crystalline Bedrock",
+		"uniques": [
+			"[+1 Production] from [Mine] tiles [in all cities]",
+			"[+1 Production] from [Quarry] tiles [in all cities]",
+			"[+1 Production] from [Marble] tiles [in all cities]",
+			"[+1 Production] from all [Stone Works] buildings"
+		],
 		"cities": ["The Elder shard","Q'Aethelprism","Q'Luminesca","Q'Amethalia","Q'Glintspire","Q'Aurorite","Q'Celestite","Q'Prismara","Q'Crystalline",
 			"Q'Quartzis","Q'Quartzis","Q'Zephyrspire","Q'Obsidia","Q'Astralith","Q'Shardrock","Q'Basal Ridge","Q'Vugspire ","Q'Clustermore","Q'Orecrag",
 			"Q'Deepdrusy","Q'Shardtadel","Q'Fracture Peak"]

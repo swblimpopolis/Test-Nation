@@ -3,7 +3,6 @@
 		"name": "Crystal Guardian",
 		"unitType": "Armored",
 		"uniqueTo": "Xylathoids",
-		"replaces": "Cavalry",
 		"movement": 1,
 		"strength": 50,
 		"cost": 500,
