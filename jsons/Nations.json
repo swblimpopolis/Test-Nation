@@ -15,19 +15,15 @@
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralRejectingDemand": "We absolutely refuse.",
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"hateRejectingDemand": "That is not possible!",
+
+		"acceptingDemand": "Very good.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"declaringFriendship": "Let us become like friends!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
@@ -38,8 +34,8 @@
 			"[+1 Production] from [Marble] tiles [in all cities]",
 			"[+1 Production] from all [Stone Works] buildings"
 		],
-		"cities": ["The Elder shard","Q'Aethelprism","Q'Luminesca","Q'Amethalia","Q'Glintspire","Q'Aurorite","Q'Celestite","Q'Prismara","Q'Crystalline",
-			"Q'Quartzis","Q'Quartzis","Q'Zephyrspire","Q'Obsidia","Q'Astralith","Q'Shardrock","Q'Basal Ridge","Q'Vugspire ","Q'Clustermore","Q'Orecrag",
-			"Q'Deepdrusy","Q'Shardtadel","Q'Fracture Peak"]
+		"cities": ["The Elder shard","Aethelprism","Luminesca","Amethalia","Glintspire","Aurorite","Celestite","Prismara","Crystalline",
+			"Quartzis","Quartzis","Zephyrspire","Obsidia","Astralith","Shardrock","Basal Ridge","Vugspire ","Clustermore","Orecrag",
+			"Deepdrusy","Shardtadel","Fracture Peak"]
 	}
 ]
