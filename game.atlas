@@ -25,14 +25,14 @@ NationIcons/Xylathoids
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Crystal Guardian
+TileSets/FantasyHex/Units/Crystal Guardian
   rotate: false
   xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Crystal Guardian
+TileSets/AbsoluteUnits/Units/Crystal Guardian
   rotate: false
   xy: 4, 4
   size: 200, 200
